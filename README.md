@@ -50,7 +50,6 @@ pip install -e .
 ```bash
 export ANTHROPIC_API_KEY="your-anthropic-api-key"
 export SAP_API_KEY="your-sap-api-key"
-export MONGODB_URI="your-mongodb-connection-string"
 ```
 
 ### 2. Basic Usage
