@@ -40,7 +40,7 @@ pip install stacks-agent-protocol
 ### From Source
 ```bash
 git clone https://github.com/miscsamchris/SAPAgent.git
-cd stacks-agent-protocol
+cd SAPAgent
 pip install -e .
 ```
 
