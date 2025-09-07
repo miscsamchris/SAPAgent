@@ -34,7 +34,7 @@ A comprehensive AI agent for interacting with the Stacks blockchain using LangCh
 
 ### From PyPI (Recommended)
 ```bash
-pip install stacks-agent-protocol
+pip install git+https://github.com/miscsamchris/SAPAgent.git
 ```
 
 ### From Source
